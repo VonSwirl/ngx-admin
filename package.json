@@ -43,7 +43,7 @@
     "@angular/http": "6.0.0",
     "@angular/platform-browser": "6.0.0",
     "@angular/platform-browser-dynamic": "6.0.0",
-    "@angular/router": "6.0.0",
+    "@angular/router": "6.1.10",
     "@asymmetrik/ngx-leaflet": "3.0.1",
     "@nebular/auth": "2.0.0-rc.9",
     "@nebular/security": "2.0.0-rc.9",
